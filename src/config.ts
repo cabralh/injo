@@ -42,11 +42,11 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://linkedin.com/in/henrycabral",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:hjcbr19@gmail.com",
+    href: "mailto:business@innerjo.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
@@ -82,9 +82,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Pinterest",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.pinterest.com/innerjo",
     linkTitle: `${SITE.title} on Pinterest`,
-    active: false,
+    active: true,
   },
   {
     name: "TikTok",
